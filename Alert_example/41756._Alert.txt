@@ -1,0 +1,10080 @@
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2094.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2091.47
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2096.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2095.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2104.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2093.48
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2090.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2079.45
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2080.90
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2079.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2079.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2092.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2089.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2093.36
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2087.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2091.71
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2094.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2091.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2099.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2102.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2098.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2104.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2105.49
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2102.08
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2101.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2158.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2160.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2156.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2160.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2162.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2166.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2162.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2161.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2158.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2164.54
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2161.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2159.13
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2156.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2169.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2196.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2212.65
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2221.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2252.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2253.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2262.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2230.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2225.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2212.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2225.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2227.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2238.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2248.35
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2232.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2226.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2231.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2203.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2205.04
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2208.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2203.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2205.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2209.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2219.17
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2242.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2263.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2311.54
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2290.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2285.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2279.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2271.37
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2271.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2282.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2287.37
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2260.17
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2265.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2256.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2272.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2254.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2235.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2242.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2249.27
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2264.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2264.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2267.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2244.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2238.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2240.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2241.58
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2251.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2342.54
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2343.47
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2355.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2359.73
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2369.09
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2379.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2375.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2359.60
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2361.05
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2368.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2358.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2357.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2351.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2352.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2370.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2363.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2354.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2356.81
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2374.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2375.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2361.79
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2358.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2360.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2361.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2358.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2353.03
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2352.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2359.09
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2346.79
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2347.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2357.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2353.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2342.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2337.60
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2348.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2353.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2350.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2359.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2364.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2356.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2354.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2241.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2235.49
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2244.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2245.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2247.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2241.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2249.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2247.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2224.02
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2212.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2194.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2189.04
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2227.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2238.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2239.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2238.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2232.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2225.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2235.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2223.84
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2217.65
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2225.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2189.88
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2186.27
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2188.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2204.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2175.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2166.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2178.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2180.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2182.17
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2182.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2189.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2211.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2259.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2266.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2261.79
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2254.81
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2255.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2256.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2279.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2283.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2284.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2272.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2281.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2289.15
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2290.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2303.17
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2282.45
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2267.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2271.26
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2281.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2274.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2251.54
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2242.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2244.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2241.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2251.03
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2230.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2233.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2249.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2246.79
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2246.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2247.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2248.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2256.86
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2246.27
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2248.74
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2252.47
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2240.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2229.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2227.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2221.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2224.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2215.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2218.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2214.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2221.36
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2218.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2218.49
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2218.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2215.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2226.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2232.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2203.88
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2172.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2176.47
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2177.49
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2154.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2148.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2142.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2142.36
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2160.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2166.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2180.59
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2222.71
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2217.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2220.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2229.37
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2236.88
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2237.60
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2245.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2244.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2198.88
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2206.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2161.13
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2176.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2178.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2181.56
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2179.02
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2183.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2185.37
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2208.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2212.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2216.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2217.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2218.43
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2213.48
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2212.71
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2266.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2254.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2234.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2185.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2190.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2194.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2198.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2193.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2199.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2201.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2203.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2215.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2216.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2255.05
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2231.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2230.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2239.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2226.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2230.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2245.17
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2241.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2250.98
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2273.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2294.37
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2315.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2311.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2308.56
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2323.09
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2334.65
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2329.98
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2317.91
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2313.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2315.92
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2278.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2291.60
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2290.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2291.03
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2290.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2293.37
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2298.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2299.36
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2292.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2293.23
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2309.08
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2323.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2320.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2293.62
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2294.59
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2290.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2292.02
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2293.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2296.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2295.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2293.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2283.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2267.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2271.59
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2272.88
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2283.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2275.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2281.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2291.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2290.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2293.86
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2283.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2284.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2279.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2264.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2274.13
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2273.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2270.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2236.47
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2240.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2233.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2249.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2248.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2241.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2204.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2210.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2217.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2232.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2233.13
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2225.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2225.54
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2222.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2229.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2230.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2251.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2287.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2347.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2355.02
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2355.94
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2366.26
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2414.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2418.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2417.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2392.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2380.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2390.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2403.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2406.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2367.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2368.27
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2355.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2349.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2358.39
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2355.58
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2334.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2353.92
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2357.96
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2358.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2357.47
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2349.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2366.81
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2305.89
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2312.24
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2278.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2299.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2304.71
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2308.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2283.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2294.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2292.54
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2299.65
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2308.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2304.91
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2306.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2301.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2297.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2303.35
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2285.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2288.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2287.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2303.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2313.89
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2316.84
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2306.81
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2305.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2307.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2306.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2289.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2294.11
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2285.23
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2279.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2281.43
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2288.06
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2291.89
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2304.13
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2305.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2307.88
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2303.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2304.05
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2315.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2319.71
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2333.17
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2346.15
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2336.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2383.04
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2384.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2387.23
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2382.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2382.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2397.97
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2398.49
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2364.17
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2366.15
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2359.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2378.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2364.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2357.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2363.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2369.60
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2372.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2379.84
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2370.92
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2249.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2208.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2223.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2214.15
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2218.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2224.71
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2206.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2212.15
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2232.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2243.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2244.97
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2218.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2222.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2239.45
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2252.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2270.27
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2276.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2282.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2282.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2284.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2275.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2271.36
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2243.45
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2246.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2255.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2252.86
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2260.39
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2250.60
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2246.91
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2234.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2218.74
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2234.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2246.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2268.98
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2267.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2257.49
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2253.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2253.65
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2230.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2237.90
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2236.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2234.39
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2244.23
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2249.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2248.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2244.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2240.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2238.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2247.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2245.92
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2246.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2249.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2251.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2236.36
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2240.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2240.08
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2247.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2233.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2235.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2240.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2220.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2205.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2189.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2196.05
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2223.84
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2225.90
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2230.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2268.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2267.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2268.74
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2345.71
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2331.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2304.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2308.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2312.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2312.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2308.11
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2303.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2294.36
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2297.11
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2300.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2300.11
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2275.92
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2259.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2260.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2298.89
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2338.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2356.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2382.71
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2376.89
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2398.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2381.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2393.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2429.56
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2438.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2476.11
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2594.54
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2586.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2586.84
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2619.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2654.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2682.23
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2606.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2595.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2609.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2617.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2612.54
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2616.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2598.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2607.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2604.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2594.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2601.59
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2607.96
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2678.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2696.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2673.26
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2603.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2600.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2590.49
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2509.04
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2523.03
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2550.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2547.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2547.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2552.11
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2554.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2542.06
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2549.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2549.60
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2543.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2564.84
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2562.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2570.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2568.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2580.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2573.24
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2578.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2572.56
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2558.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2549.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2554.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2547.59
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2551.43
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2553.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2544.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2547.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2541.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2541.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2541.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2532.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2532.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2515.36
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2528.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2488.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2511.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2507.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2510.09
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2518.45
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2514.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2513.81
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2540.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2521.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2518.86
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2514.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2515.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2519.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2518.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2527.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2533.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2532.23
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2530.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2531.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2536.74
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2532.88
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2531.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2566.91
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2565.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2587.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2578.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2571.13
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2567.58
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2546.59
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2544.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2546.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2551.86
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2531.62
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2533.15
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2532.62
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2540.65
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2521.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2530.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2526.58
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2531.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2530.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2537.02
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2547.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2517.92
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2492.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2470.08
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2473.37
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2455.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2467.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2468.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2463.79
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2460.86
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2468.65
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2473.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2490.04
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2484.06
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2444.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2496.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2492.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2491.24
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2484.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2486.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2482.27
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2481.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2473.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2472.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2471.79
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2469.91
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2461.24
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2460.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2467.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2469.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2474.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2472.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2475.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2475.05
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2474.36
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2478.23
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2470.71
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2477.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2472.91
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2469.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2458.56
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2461.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2435.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2423.98
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2434.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2414.98
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2388.56
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2377.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2375.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2363.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2342.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2327.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2324.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2343.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2347.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2349.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2237.73
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2215.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2224.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2194.98
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2216.24
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2187.98
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2200.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2243.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2228.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2218.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2223.04
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2228.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2235.60
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2240.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2239.97
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2232.79
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2236.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2237.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2215.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2219.91
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2210.36
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2233.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2214.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2210.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2229.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2227.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2206.04
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2190.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2196.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2216.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2228.94
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2221.37
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2215.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2217.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2223.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2222.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2222.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2213.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2212.43
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2221.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2260.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2249.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2257.09
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2270.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2254.91
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2254.81
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2258.59
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2265.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2271.84
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2274.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2265.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2265.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2258.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2265.09
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2265.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2270.47
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2271.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2266.03
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2270.35
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2269.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2271.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2267.74
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2265.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2266.49
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2281.94
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2285.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2290.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2288.60
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2290.54
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2292.56
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2274.84
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2271.36
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2267.97
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2264.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2259.13
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2252.15
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2257.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2269.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2267.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2267.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2262.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2275.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2250.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2251.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2308.05
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2301.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2301.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2307.97
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2313.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2315.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2310.39
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2306.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2307.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2310.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2307.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2318.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2301.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2316.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2375.23
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2376.39
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2384.71
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2339.86
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2331.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2342.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2335.58
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2338.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2339.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2294.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2309.86
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2308.81
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2332.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2346.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2276.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2288.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2251.02
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2258.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2264.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2272.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2273.84
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2268.02
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2268.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2274.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2291.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2304.24
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2304.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2297.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2314.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2303.98
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2297.49
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2310.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2308.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2314.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2295.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2306.47
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2295.90
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2300.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2304.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2307.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2322.43
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2322.98
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2323.86
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2323.24
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2321.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2320.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2312.49
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2312.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2305.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2305.29
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2301.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2309.73
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2299.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2303.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2299.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2296.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2296.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2296.47
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2304.27
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2298.84
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2289.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2296.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2304.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2302.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2303.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2301.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2299.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2307.17
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2279.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2283.81
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2289.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2281.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2281.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2293.58
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2328.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2326.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2326.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2300.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2300.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2293.05
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2289.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2292.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2301.97
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2313.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2313.11
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2312.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2333.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2336.35
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2324.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2329.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2345.81
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2339.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2358.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2357.49
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2363.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2379.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2382.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2376.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2387.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2364.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2362.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2360.65
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2360.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2375.58
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2380.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2372.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2411.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2425.48
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2430.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2433.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2435.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2422.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2424.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2423.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2426.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2419.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2423.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2437.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2433.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2429.45
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2424.23
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2424.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2426.24
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2420.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2421.26
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2431.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2444.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2451.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2452.48
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2459.37
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2473.88
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2513.97
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2498.64
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2495.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2491.17
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2500.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2497.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2493.43
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2494.45
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2504.26
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2492.91
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2476.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2488.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2491.09
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2491.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2491.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2491.75
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2487.58
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2492.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2495.04
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2501.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2501.24
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2508.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2522.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2525.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2531.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2522.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2513.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2510.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2509.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2505.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2500.43
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2501.92
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2515.45
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2501.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2495.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2496.65
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2494.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2481.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2484.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2484.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2487.27
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2553.89
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2624.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2644.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2660.91
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2671.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2647.49
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2650.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2651.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2651.97
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2677.76
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2631.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2643.59
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2617.90
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2630.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2631.09
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2635.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2630.59
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2626.56
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2634.05
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2753.79
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2752.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2743.48
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2746.73
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2745.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2766.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2767.35
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2771.48
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2785.39
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2796.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2796.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2780.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2783.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2793.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2812.54
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2839.05
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2827.96
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2838.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2840.90
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2819.74
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2848.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2843.91
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2820.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2825.27
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2814.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2818.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2830.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2796.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2772.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2780.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2779.06
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2791.70
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2794.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2792.59
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2795.39
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2794.92
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2788.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2780.96
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2778.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2786.03
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2742.91
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2758.11
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2773.90
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2787.81
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2795.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2779.35
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2797.98
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2805.45
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2807.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2801.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2804.90
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2814.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2815.86
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2827.67
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2883.88
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2869.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2886.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2887.39
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2927.63
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2915.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2913.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2915.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2916.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2902.09
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2911.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2943.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2937.37
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2952.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2924.46
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2927.08
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2919.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2934.59
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2917.55
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2915.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2957.06
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2925.94
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2909.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2975.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2995.09
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2998.32
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3007.59
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3007.88
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3007.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2942.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2916.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2920.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2892.47
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2933.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2902.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2915.56
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2928.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2926.23
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2932.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2937.86
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2943.56
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3034.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2994.05
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2947.39
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2984.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2994.89
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2989.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3025.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2992.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2985.60
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2990.02
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2952.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2958.96
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2938.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2931.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2945.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2936.52
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2924.96
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2946.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2948.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2954.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2927.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2931.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2922.48
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2950.04
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2951.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2958.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2964.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2958.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2959.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2961.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2964.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2993.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2988.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2994.58
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2993.37
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=2996.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3026.65
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3024.71
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3037.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3019.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3029.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3045.60
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3046.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3046.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3104.25
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3114.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3124.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3099.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3106.54
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3110.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3113.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3101.88
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3060.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3058.37
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3064.45
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3075.60
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3161.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3167.39
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3192.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3186.84
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3183.98
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3178.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3179.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3243.43
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3257.39
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3222.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3233.06
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3250.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3257.71
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3269.96
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3255.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3250.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3240.86
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3247.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3262.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3250.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3245.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3249.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3261.28
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3267.53
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3346.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3352.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3315.07
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3348.13
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3374.27
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3322.06
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3299.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3419.78
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3409.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3484.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3482.18
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3475.82
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3461.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3482.19
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3442.79
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3403.04
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3388.13
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3347.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3336.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3369.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3373.74
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3379.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3381.83
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3397.56
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3395.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3431.97
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3419.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3448.05
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3398.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3401.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3431.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3436.87
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3439.79
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3449.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3446.57
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3441.50
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3443.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3444.36
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3421.35
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3422.94
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3418.61
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3412.66
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3420.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3420.51
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3423.13
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3419.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3432.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3429.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3432.41
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3414.34
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3410.02
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3412.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3414.42
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3432.80
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3434.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3427.45
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3400.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3411.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3408.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3428.81
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3428.77
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3435.94
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3471.48
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3475.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3478.44
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3479.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3488.84
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3491.06
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3482.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3470.16
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3476.39
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3532.56
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3500.93
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3506.15
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3519.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3581.11
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3571.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3587.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3583.30
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3594.69
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3633.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3622.01
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3633.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3644.95
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3731.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3726.06
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3686.15
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3703.96
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3771.00
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3797.90
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3786.85
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3677.22
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3457.09
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3516.21
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3530.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3513.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3536.08
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3774.89
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3861.23
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3821.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3837.88
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3806.12
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3805.10
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3861.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3881.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3824.40
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3836.73
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3846.97
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3834.99
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3808.90
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3795.03
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3803.31
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3775.81
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3794.20
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3812.43
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3797.38
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3791.14
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3839.33
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3856.68
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3877.72
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
+[ALERT]
+Symbol=ETHUSDT
+Strategy=MyMA
+Price=3878.11
+StopLoss=15.00
+TakeProfit=30.00
+Signature=Long by Reyer26738832
+Time=04:17:56
